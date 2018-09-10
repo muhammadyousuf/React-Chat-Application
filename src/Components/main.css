@@ -1,0 +1,104 @@
+.main{
+    background-color: rgba(128, 128, 128, 0.938);
+    width: 30%;
+    height: 100%;
+
+}
+.chat{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: ghostwhite;
+    text-align: center;
+    
+}
+.grid{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-style: normal;
+    
+    
+}
+.Chatbox{
+
+    min-width: 200px;
+    max-width: 1000px;
+    margin-left: 420px;
+    margin-top: -636px;
+    max-height: 595px;
+    min-height: 595px;
+    border-color: black;
+    border-width: 10px;
+    
+}
+.well{
+    font-size: 90px;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+   font-style: oblique;
+   font-stretch: narrower;
+   animation: App-logo-spin infinite 10s alternate;
+
+    text-align: center;
+
+}
+.logo{
+    height: 620px;
+    width: 924px;
+    margin-left: 420px;
+    margin-top: -680px;
+}
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(30deg); }
+  }
+.messagebox{
+    background-color: white;
+    width: 755px;
+    
+}
+.boxset{
+    margin-top: 2px;
+}
+.buttonset{
+    margin-left: 751px;
+    margin-top: -50px;
+}
+.header{
+    background-color: rgb(114, 129, 179);
+    margin-top: 20px;
+    height: 55px;
+    border-radius: 5px;
+   /* border: 2px solid rgb(18, 17, 114);*/
+    
+}
+.headerbar{
+    text-transform: capitalize;
+    color: azure;
+    margin-top: -2px;
+    margin-left: 4px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.listshow{
+    background-color: rgb(243, 232, 232);
+    width: 922px;
+    height: 490px;
+    margin-top: 1px;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+}
+.crossBtn{
+    margin-top: -55px;
+    margin-left: 880px;
+    height: 50px;
+
+
+}
+.btnset{
+    border: 4px double  rgb(18, 17, 114);
+    color: cornsilk;
+    
+}
